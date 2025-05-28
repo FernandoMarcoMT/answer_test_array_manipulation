@@ -2,6 +2,7 @@
   "name": "answer_test_psi_array_manipulation",
   "version": "1.0.0",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
